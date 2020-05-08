@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onelyn.github.io</id>
     <title>Shmily</title>
-    <updated>2020-05-04T07:50:45.606Z</updated>
+    <updated>2020-05-08T15:47:55.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onelyn.github.io"/>
     <link rel="self" href="https://onelyn.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://onelyn.github.io/images/avatar.png</logo>
     <icon>https://onelyn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Shmily</rights>
+    <entry>
+        <title type="html"><![CDATA[Brain Plasticity and Behavior in the Developing Brain ]]></title>
+        <id>https://onelyn.github.io/post/brain-plasticity-and-behavior-in-the-developing-brain/</id>
+        <link href="https://onelyn.github.io/post/brain-plasticity-and-behavior-in-the-developing-brain/">
+        </link>
+        <updated>2020-05-08T15:47:08.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paper || Motor cortex plasticity decreased by drug addiction]]></title>
         <id>https://onelyn.github.io/post/paper-or-motor-cortex-plasticity-decreased-by-drug-addiction/</id>
