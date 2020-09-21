@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onelyn.github.io</id>
     <title>Shmily</title>
-    <updated>2020-06-29T00:38:54.282Z</updated>
+    <updated>2020-09-21T15:38:48.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onelyn.github.io"/>
     <link rel="self" href="https://onelyn.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://onelyn.github.io/images/avatar.png</logo>
     <icon>https://onelyn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Shmily</rights>
+    <entry>
+        <title type="html"><![CDATA[Paper || Attention biases decision but not alters appearance]]></title>
+        <id>https://onelyn.github.io/post/paper-or-attention-biases-decision-but-not-alters-appearance/</id>
+        <link href="https://onelyn.github.io/post/paper-or-attention-biases-decision-but-not-alters-appearance/">
+        </link>
+        <updated>2020-09-21T15:38:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper || Attention alters appearance]]></title>
+        <id>https://onelyn.github.io/post/paper-or-attention-alters-appearance/</id>
+        <link href="https://onelyn.github.io/post/paper-or-attention-alters-appearance/">
+        </link>
+        <updated>2020-09-21T15:37:32.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Student Guide - Answers]]></title>
         <id>https://onelyn.github.io/post/student-guide-answers/</id>
@@ -65,19 +79,5 @@
         <link href="https://onelyn.github.io/post/paper-empathy-or-transforming-emotions-with-chinese-medicine/">
         </link>
         <updated>2020-06-19T09:48:36.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper || Cong Yu's research done with Double-Training]]></title>
-        <id>https://onelyn.github.io/post/paper-or-congo-yus-research-done-with-double-training/</id>
-        <link href="https://onelyn.github.io/post/paper-or-congo-yus-research-done-with-double-training/">
-        </link>
-        <updated>2020-06-19T09:47:35.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper || Neural Mechanisms of Brain Plasticity with Complex Cognitive Training in Healthy Seniors]]></title>
-        <id>https://onelyn.github.io/post/paper-or-neural-mechanisms-of-brain-plasticity-with-complex-cognitive-training-in-healthy-seniors/</id>
-        <link href="https://onelyn.github.io/post/paper-or-neural-mechanisms-of-brain-plasticity-with-complex-cognitive-training-in-healthy-seniors/">
-        </link>
-        <updated>2020-05-28T16:30:52.000Z</updated>
     </entry>
 </feed>
