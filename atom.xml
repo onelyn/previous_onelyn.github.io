@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onelyn.github.io</id>
     <title>Shmily</title>
-    <updated>2020-10-12T10:31:53.020Z</updated>
+    <updated>2020-10-26T14:10:08.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onelyn.github.io"/>
     <link rel="self" href="https://onelyn.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://onelyn.github.io/images/avatar.png</logo>
     <icon>https://onelyn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Shmily</rights>
+    <entry>
+        <title type="html"><![CDATA[Paper || Binocular Rivalry Requires Visual Attention]]></title>
+        <id>https://onelyn.github.io/post/paper-or-binocular-rivalry-requires-visual-attention/</id>
+        <link href="https://onelyn.github.io/post/paper-or-binocular-rivalry-requires-visual-attention/">
+        </link>
+        <updated>2020-10-26T14:09:28.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paper || Normalization is a general neural mechanism for context-dependent decision making]]></title>
         <id>https://onelyn.github.io/post/paper-or-normalization-is-a-general-neural-mechanism-for-context-dependent-decision-making/</id>
@@ -72,12 +79,5 @@
         <link href="https://onelyn.github.io/post/paper-empathy-or-empathy-a-motivated-account/">
         </link>
         <updated>2020-06-19T09:49:58.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper - Empathy || Measures of empathy]]></title>
-        <id>https://onelyn.github.io/post/paper-empathy-or-measures-of-empathy/</id>
-        <link href="https://onelyn.github.io/post/paper-empathy-or-measures-of-empathy/">
-        </link>
-        <updated>2020-06-19T09:49:25.000Z</updated>
     </entry>
 </feed>
