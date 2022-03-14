@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onelyn.github.io</id>
-    <title>Shmily</title>
-    <updated>2022-03-14T11:21:09.832Z</updated>
+    <title>LIU Yinuo</title>
+    <updated>2022-03-14T11:58:36.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onelyn.github.io"/>
     <link rel="self" href="https://onelyn.github.io/atom.xml"/>
-    <subtitle>我是这样活着的</subtitle>
+    <subtitle>Psychology/Neuroscience/Psycholinguistics. Interested in language and memory. Still an undergraduate but trying to be a future neuroscientist!</subtitle>
     <logo>https://onelyn.github.io/images/avatar.png</logo>
     <icon>https://onelyn.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Shmily</rights>
+    <rights>All rights reserved 2022, LIU Yinuo</rights>
 </feed>
